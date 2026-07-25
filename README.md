@@ -9,7 +9,8 @@
   </p>
 
   <p style="margin-bottom: 0; font-weight: bold;">
-    Install on Greasemonkey or Tampermonkey browser extension. 
+    Install on Greasemonkey or Tampermonkey browser extension. <br/>
+    <a href="https://greasyfork.org/en/scripts/588519-youtube-play-all-oldest-channel-videos-batch-max-50">YouTube Play All Oldest Channel Videos GreasyFork</a>
   </p>
 
   <p style="margin-bottom: 0; font-weight: bold; color: #7928CA;">
