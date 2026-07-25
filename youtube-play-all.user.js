@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         YouTube Play All (Oldest) Channel Videos (Batch Max. 50)
+// @name         YouTube Play All (Oldest) Channel Videos
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  Adds Play All button that works with filtering chips. YouTube might update DOM again soon - will update when this happens. Happy listening.
+// @version      1.0.1
+// @description  Adds Play All button to channel videos page that works with filtering chips. Run with Tamper- or Greasymonkey. Happy listening.
 // @author       summerinpalma
 // @match        https://www.youtube.com/*
 // @grant        none
